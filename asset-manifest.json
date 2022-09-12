@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Diloxy-frontend/static/css/main.a1c6440f.css",
+    "main.js": "/Diloxy-frontend/static/js/main.8a9535a4.js",
+    "static/js/787.9b3214e2.chunk.js": "/Diloxy-frontend/static/js/787.9b3214e2.chunk.js",
+    "index.html": "/Diloxy-frontend/index.html",
+    "main.a1c6440f.css.map": "/Diloxy-frontend/static/css/main.a1c6440f.css.map",
+    "main.8a9535a4.js.map": "/Diloxy-frontend/static/js/main.8a9535a4.js.map",
+    "787.9b3214e2.chunk.js.map": "/Diloxy-frontend/static/js/787.9b3214e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1c6440f.css",
+    "static/js/main.8a9535a4.js"
+  ]
+}
